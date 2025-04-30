@@ -34,7 +34,7 @@ ShapeDrawingSystem/
 - Open the project in Eclipse
 - Right-click Main.java → Run As → Java Application
 - You’ll see output in the console like:
-![output](assets/output.png)
+- ![output](assets/output.png)
 
 
 🧠 **OOP Concepts Used**
