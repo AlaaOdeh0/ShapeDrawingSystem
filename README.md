@@ -1,8 +1,8 @@
-🧩 Shape Drawing System
+🧩 **Shape Drawing System**
 This Java application demonstrates object-oriented design principles by modeling a geometric shape system using inheritance, interfaces, and abstract classes.
 
 
-📁 Project Structure
+📁 **Project Structure**
 ShapeDrawingSystem/
 ├── src/
 │   └── shapes/
@@ -21,16 +21,16 @@ ShapeDrawingSystem/
 │       └── Main.java
 
 
-🚀 Features
-✅ Clean code with proper naming conventions
-✅ Shape hierarchy using abstract base classes
-✅ Factory methods for shape creation
-✅ Movable interface with movement logic
-✅ getArea() and getPerimeter() implemented polymorphically
-✅ Handles Circle-Ellipse and Square-Rectangle design properly
+🚀 **Features**
+- ✅ Clean code with proper naming conventions
+- ✅ Shape hierarchy using abstract base classes
+- ✅ Factory methods for shape creation
+- ✅ Movable interface with movement logic
+- ✅ getArea() and getPerimeter() implemented polymorphically
+- ✅ Handles Circle-Ellipse and Square-Rectangle design properly
 
 
-🛠️ How to Run
+🛠️ **How to Run**
 - Open the project in Eclipse
 - Right-click Main.java → Run As → Java Application
 - You’ll see output in the console like:
@@ -46,7 +46,7 @@ ShapeDrawingSystem/
       Triangle Area: 12.5
 
 
-🧠 OOP Concepts Used
+🧠 **OOP Concepts Used**
 - Inheritance (Shape, ClosedShape)
 - Abstract Classes (Shape)
 - Polymorphism (draw(), getArea())
@@ -55,12 +55,12 @@ ShapeDrawingSystem/
 - Factory Methods (createRectangle, createCircle, etc.)
 
 
-💡 Design Decisions
+💡 **Design Decisions**
 Circle and Square do not inherit from Ellipse or Rectangle respectively to avoid Liskov Substitution Principle violations.
 getArea() is centralized in ClosedShape to avoid redundancy.
 
 
-📌 Requirements Covered
+📌 **Requirements Covered**
  - Java code conventions followed
  - Setters and getters implemented
  - Factory methods used for object creation
@@ -68,6 +68,6 @@ getArea() is centralized in ClosedShape to avoid redundancy.
  - All shape types supported: Rectangle, Square, Circle, Ellipse, Triangle, Polygon
 
 
-👨‍💻 Author
+👨‍💻 **Author**
 Alaa Odeh
 Java OOP Project – 2025
