@@ -34,16 +34,7 @@ ShapeDrawingSystem/
 - Open the project in Eclipse
 - Right-click Main.java → Run As → Java Application
 - You’ll see output in the console like:
-      - Drawing a Rectangle
-      - Rect Area: 200.0
-      - Drawing a Square
-      - Square Area: 225.0
-      - Drawing a Circle
-      - Circle Area: 314.15927
-      - Drawing an Ellipse
-      - Ellipse Area: 157.07964
-      - Drawing a Triangle
-      - Triangle Area: 12.5
+![output](assets/output.png)
 
 
 🧠 **OOP Concepts Used**
